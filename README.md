@@ -16,6 +16,7 @@ in console:
 ````git clone https://github.com/N1gma/test-react-native-task.git````
 
 ````cd test-react-native-task````
+````npm install````
 
 then run one of 3:
 
