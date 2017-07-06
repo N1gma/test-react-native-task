@@ -32,3 +32,4 @@ or
 
 #### You can investigate app source files at 
 https://github.com/N1gma/test-react-native-task.git
+credentials for login can be found at /static/mock_data.js
